@@ -1,1 +1,1 @@
-print('今昔是何年')
+from time import time
